@@ -1,0 +1,10 @@
+__pycache__/
+*.py[cod]
+*.spec
+build/
+dist/
+installer-output/
+work/
+.DS_Store
+mulligan_data.json
+card_templates/
